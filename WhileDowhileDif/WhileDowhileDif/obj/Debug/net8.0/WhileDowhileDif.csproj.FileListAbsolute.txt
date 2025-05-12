@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\bin\Debug\net8.0\WhileDowhileDif.exe
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\bin\Debug\net8.0\WhileDowhileDif.deps.json
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\bin\Debug\net8.0\WhileDowhileDif.runtimeconfig.json
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\bin\Debug\net8.0\WhileDowhileDif.dll
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\bin\Debug\net8.0\WhileDowhileDif.pdb
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\obj\Debug\net8.0\WhileDowhileDif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\obj\Debug\net8.0\WhileDowhileDif.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\obj\Debug\net8.0\WhileDowhileDif.AssemblyInfo.cs
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\obj\Debug\net8.0\WhileDowhileDif.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\obj\Debug\net8.0\WhileDowhileDif.sourcelink.json
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\obj\Debug\net8.0\WhileDowhileDif.dll
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\obj\Debug\net8.0\refint\WhileDowhileDif.dll
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\obj\Debug\net8.0\WhileDowhileDif.pdb
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\obj\Debug\net8.0\WhileDowhileDif.genruntimeconfig.cache
+C:\Users\musta\source\repos\WhileDowhileDif\WhileDowhileDif\obj\Debug\net8.0\ref\WhileDowhileDif.dll

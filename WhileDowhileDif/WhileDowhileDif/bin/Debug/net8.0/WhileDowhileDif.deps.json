@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WhileDowhileDif/1.0.0": {
+        "runtime": {
+          "WhileDowhileDif.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WhileDowhileDif/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
